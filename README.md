@@ -1,6 +1,6 @@
 # Getting started
 The `marvelous-query-language` (`MQL`) is an open source domain specific language built on top of <code>.NET</code> platform. 
-It has been desinged to help semi-technical users filter large data sources. To be as user-friendly as possible it offers
+It has been designed to help semi-technical users filter large data sources. To be as user-friendly as possible it offers
 auto completions. 
 
 If you would like to use it along with Aurelia checkout
